@@ -1,0 +1,30 @@
+{
+  "name": "Scotchy",
+  "version": "1.0.0",
+  "description": "Gulp Starter with Less",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scotch-io/gulp-and-less-starter-kit"
+  },
+  "author": "Nicholas Cerminara",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-less": "3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-util": "^3.0.7"
+  }
+}
